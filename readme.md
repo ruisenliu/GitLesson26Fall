@@ -11,3 +11,7 @@
 ## main 分支更新
 
 在 feature-1 开发期间，main 分支也在推进。
+
+## main 分支第二次更新
+
+继续与 feature-2 并行开发。
